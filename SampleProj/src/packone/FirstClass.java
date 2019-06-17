@@ -3,7 +3,8 @@ package packone;
 public class FirstClass {
 
 	public static void main(String[] args) {
-		int a=10; int b=5; int c=a-b;
+		int a=10; int b=5; int c=a-b; 
+		//sample
 
 		// Applying Switch case to verify the value of C variable
 		switch(c){
